@@ -23,3 +23,4 @@
   <img src="https://github.com/LeoDaSena/LeoDaSena/blob/main/avatar.png" width="200" alt="Avatar" />
 </p>
 
+![Snake animation](https://github.com/LeoDaSena/LeoDaSena/blob/output/github-contribution-grid-snake.svg)
